@@ -5,7 +5,7 @@ class Main extends Component {
     return (
       <div
         className="main"
-        class="d-flex justify-content-center h-25  bg-white text-dark"
+        class="d-flex justify-content-center h-25  bg-white "
       >
         <h1>Eu fico no meio</h1>
       </div>
