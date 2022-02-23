@@ -1,0 +1,25 @@
+ <div class="menu-bottom">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown js-float-line" data-app-modern-menu="true"><li class="nav-item">
+                        <a class="nav-link link mbr-black text-danger display-4" href="index.html">
+                            Home</a>
+                    </li>
+                    <li class="nav-item dropdown open">
+                        <a class="nav-link link mbr-black dropdown-toggle text-danger display-4" href="https://mobirise.com" data-toggle="dropdown-submenu" aria-expanded="true">Site Examples</a>
+                        <div class="dropdown-menu">
+                            <a class="mbr-black dropdown-item text-danger display-4" href="traveldemo.html">Travel Site</a>
+                            <a class="mbr-black dropdown-item text-danger display-4" href="searchdemo.html" aria-expanded="false">Trips Search</a>
+                            
+                        </div>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link link mbr-black dropdown-toggle text-danger display-4" href="https://mobirise.com" data-toggle="dropdown-submenu" aria-expanded="false">Live Demo Blocks</a>
+                        <div class="dropdown-menu">
+                            <a class="mbr-black dropdown-item text-danger display-4" href="headers.html">Headers</a>
+                            <a class="mbr-black dropdown-item text-danger display-4" href="features.html" aria-expanded="false">Features</a>
+                            <a class="mbr-black dropdown-item text-danger display-4" href="content.html" aria-expanded="false">Video / Image &amp; Content</a><a class="mbr-black text-danger dropdown-item display-4" href="team.html" aria-expanded="false">Team &amp; Testimonials</a><a class="mbr-black text-danger dropdown-item display-4" href="accordions.html" aria-expanded="false">Accordions</a><a class="mbr-black text-danger dropdown-item display-4" href="footers.html" aria-expanded="false">Froms / Maps &amp; Footers</a>
+                        </div>
+                    </li></ul>
+
+            </div>
